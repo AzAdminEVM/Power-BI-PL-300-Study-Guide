@@ -10,7 +10,7 @@ First and foremost is the current Skills Measured outline found [here](https://q
 
 Unfortunately, Microsoft's Learn path and its outline are not a 1:1. Here we've done the best we can to provide links to the relevant information. Where larger gaps between the outline and the MS Learn track exist, users may instead find links to external sites and resources.
 
-The document furthermore contains references to [further reading and resources](#additional-resources-&-links), including tutorial videos, paid training (not ours), and the Dashboard in a Day offered by Microsoft (free).
+The document furthermore contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day offered by Microsoft (free).
 
 **This document is current as of February 2022.**
 
