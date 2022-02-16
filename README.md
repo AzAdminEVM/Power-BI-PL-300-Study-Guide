@@ -49,10 +49,11 @@ Unfortunately, Microsoft's Learn path and its outline are not a 1:1, which means
 - [Lab: Model data in Power BI Desktop, pt.1](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/8-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)  
 - [Lab: Model data in Power BI Desktop, pt.2](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/9-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)
 #### Develop a data model 
-Unfortunately this does not have a specific section in the MS Learn track. Items below are addressed in other sections, however. Links have nevertheless been provided below to cover the topics.- [create calculated tables](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-tables)- [create hierarchies](https://spreadsheeto.com/power-bi-hierarchy/)- [create calculated columns](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns)- [implement row-level security roles](https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/)- [use the Q&A feature](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-tutorial-q-and-a)
+Unfortunately this section does not appear in the MS Learn track, though its items are addressed elsewhere. Links have nevertheless been provided below to cover the topics.- [create calculated tables](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-tables)- [create hierarchies](https://spreadsheeto.com/power-bi-hierarchy/)- [create calculated columns](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns)- [implement row-level security roles](https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/)- [use the Q&A feature](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-tutorial-q-and-a)
 
 ##### Additional resources:
 - [Row-level security (RLS) with Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls)
+- [Use the Q&A visual](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/2-visual?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.data-analysis-power-bi)
 #### [Create model calculations by using DAX](https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/)- create basic measures by using DAX- use CALCULATE to manipulate filters
 - implement Time Intelligence using DAX- replace implicit measures with explicit measures- use basic statistical functions- create semi-additive measures- use quick measures
 
@@ -70,11 +71,12 @@ Unfortunately this does not have a specific section in the MS Learn track. Items
 
 ##### Additional Resources:
 - [Lab: Create a Power BI dashboard](https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/9-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.visual-data-power-bi)
+- [Use the Q&A visual](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/2-visual?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.data-analysis-power-bi)
 #### [Enhance reports for usability and storytelling](https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/)- configure bookmarks- create custom tooltips- edit and configure interactions between visuals- configure navigation for a report- apply sorting- configure Sync Slicers- group and layer visuals by using the selection pane- drilldown into data using interactive visuals- export report data- design reports for mobile devices
 
 ##### Additional Resources:
 - [Lab: Enhance Power BI reports with slicers, interaction, and formatting](https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/13-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.visual-data-power-bi)
-#### [Identify patterns and trends](https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/)- use the Analyze feature in Power BI- identify outliers- choose between continuous and categorical axes- use groupings, binnings, and clustering- [use AI visuals](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/)- use the Forecast feature- create reference lines by using the Analytics pane
+#### [Identify patterns and trends](https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/)- use the Analyze feature in Power BI- identify outliers- choose between continuous and categorical axes- use groupings, binnings, and clustering- [use AI visuals (this is its own section in the MS Learn track)](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/)- use the Forecast feature- create reference lines by using the Analytics pane
 
 ##### Additional Resources:
 - [Lab: Perform data analysis in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/5-lab?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.data-analysis-power-bi)
