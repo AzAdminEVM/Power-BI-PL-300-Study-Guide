@@ -29,9 +29,9 @@ We then recommend working with the provided material to solidify what's been lea
 ### Prepare the Data#### [Get data from different data sources](https://docs.microsoft.com/en-us/learn/modules/get-data/)- identify and connect to a data source- change data source settings- select a shared dataset or create a local dataset- select a storage mode- use Microsoft Dataverse- change the value in a parameter- connect to a data flow
 
 ##### Additional Resources:
-– [Lab: Prepare data in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/get-data/lab-prepare)  
-– [MS Documentation: Data sources in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources)  
-– [How To Change Data Source Of Existing Report In Power BI](https://www.c-sharpcorner.com/article/how-to-change-data-source-of-existing-report-in-power-bi/)
+- [Lab: Prepare data in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/get-data/lab-prepare)  
+- [MS Documentation: Data sources in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources)  
+- [How To Change Data Source Of Existing Report In Power BI](https://www.c-sharpcorner.com/article/how-to-change-data-source-of-existing-report-in-power-bi/)
 #### [Clean, transform, and load the data](https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/)- profile the data- resolve inconsistencies, unexpected or null values, and data quality issues- identify and create appropriate keys for joins- evaluate and transform column data types- shape and transform tables- combine queries- apply user-friendly naming conventions to columns and queries- configure data loading- resolve data import errors
 
 ##### Additional Resources:
@@ -39,8 +39,8 @@ We then recommend working with the provided material to solidify what's been lea
 ### [Model the Data](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/)#### [Design a data model](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/)- define the tables- configure table and column properties- design and implement role-playing dimensions- define a relationship's cardinality and cross-filter direction- design a data model that uses a star schema- create a common date table
 
 ##### Additional Resources:
-– [Lab: Model data in Power BI Desktop, pt.1](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/8-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)  
-– [Lab: Model data in Power BI Desktop, pt.2](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/9-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)
+- [Lab: Model data in Power BI Desktop, pt.1](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/8-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)  
+- [Lab: Model data in Power BI Desktop, pt.2](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/9-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)
 #### Develop a data model 
 Unfortunately this does not have a specific section in the MS Learn track. Items below are addressed in other sections, however. Links have nevertheless been provided below to cover the topics.- [create calculated tables](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-tables)- [create hierarchies](https://spreadsheeto.com/power-bi-hierarchy/)- [create calculated columns](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns)- [implement row-level security roles](https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/)- [use the Q&A feature](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-tutorial-q-and-a)
 
