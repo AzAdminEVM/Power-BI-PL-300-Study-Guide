@@ -8,7 +8,7 @@ This repo contains a study guide for the [PL-300: Microsoft Power BI Data Analys
 
 First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline) with links to 1) the primary Microsoft Learn page(s) (where they exist), 2) additional Microsoft documentation, and 3) additional resources. 
 
-The document also contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day offered by Microsoft (free).
+The document also contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day project offered by Microsoft (free).
 
 **This document is current as of February 2022.**
 
