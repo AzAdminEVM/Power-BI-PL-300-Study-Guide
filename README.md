@@ -6,7 +6,7 @@ This repo contains a study guide for the [PL-300: Microsoft Power BI Data Analys
 
 # What this Document Contains
 
-First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline) with links to 1) the primary Microsoft Learn page(s), 2) additional Microsoft documentation, and 3) additional resources.
+First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline) with links to 1) the primary Microsoft Learn page(s) (where they exist), 2) additional Microsoft documentation, and 3) additional resources. 
 
 The document also contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day offered by Microsoft (free).
 
@@ -24,7 +24,11 @@ We then recommend working with the provided material to solidify what's been lea
 **NOTICE: Just following the Microsoft Learn path is not enough. There is too much material to memorize in one go-through. You *will* have to practice, and you will be returning to sections.**
 
 # Additional Notes
-Unfortunately, Microsoft's Learn path and its outline are not a 1:1, which means that content for certain sub-sections may not be found within the page linked to by the header. We have done our best to fill these gaps, though several surely remain. Please feel free to contribute to fill these in. 
+Unfortunately, Microsoft's Learn path and its outline are not a 1:1. This can manifest in two ways.
+
+In the first, a sub-section in the outline may not have its own explicit page in the MS Learn path and may exist across several pages of content. E.g. `identify and connect to a data source` does not exist as a specific page in the MS Learn section for `Prepare the Data`, but rather as several pages tied to various data sources.  
+
+In the second, content for certain sub-sections may not be found within the MS Learn content linked to by header (one doesn't have an MS Learn section at all). Where this is the case, informative content has been provided to the best of our ability. Several gaps surely remain, however. Please feel free to contribute to fill these in. 
 
 
 # The Skills Measured Checklist
@@ -62,7 +66,7 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - [Lab: Time Intelligence and Measures in DAX](https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/8-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)
 #### [Optimize model performance](https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/)- remove unnecessary rows and columns- identify poorly performing measures, relationships, and visuals- reduce cardinality levels to improve performance
 ### [Visualize and Analyze the Data](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)#### [Create reports](https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/)- add visualization items to reports- choose an appropriate visualization type- format and configure visualizations
-- use a custom visual- apply and customize a theme- configure conditional formatting- apply slicing and filtering- configure the report page- use the Analyze in Excel feature- [choose when to use a paginated report](https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/)
+- use a custom visual- apply and customize a theme- configure conditional formatting- apply slicing and filtering- configure the report page- [use the Analyze in Excel]feature(https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-analyze-in-excel)  - [choose when to use a paginated report](https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/)
 
 ##### Additional Resources:
 - [Lab: Design a report in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/8-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.visual-data-power-bi)
