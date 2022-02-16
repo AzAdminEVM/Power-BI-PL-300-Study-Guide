@@ -13,7 +13,7 @@ The document also contains references to [further reading and resources](#additi
 **This document is current as of February 2022.**
 
 # How to Use this Document
-Clone the repo. Then, begin with the Microsoft Learn track found [here](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/), but also linked to in the below Outline. This is the go-to source for all material covered by the exam.
+Clone the repo. Then, begin with the Microsoft Learn track found [here](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). The subsections of this are what is linked to in the below Outline. It is the go-to source for all material covered by the exam.
 
 As you complete each section, check off each sub-section and header. To do so, add an `x` between the brackets, like so `[x]`. Example:
 - [ ] Incomplete
@@ -21,7 +21,7 @@ As you complete each section, check off each sub-section and header. To do so, a
 
 We then recommend working with the provided material to solidify what's been learned. 
 
-**NOTICE: There is too much material for everything to sink in just following the Microsoft Learn path.** You **will** have to practice.
+**NOTICE: Just following the Microsoft Learn path is not enough. There is too much material to memorize in one go-through. You *will* have to practice, and you will be returning to sections.**
 
 # Additional Notes
 Unfortunately, Microsoft's Learn path and its outline are not a 1:1, which means that content for certain sub-sections may not be found within the page linked to by the header. We have done our best to fill these gaps, though several surely remain. Please feel free to contribute to fill these in. 
