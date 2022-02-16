@@ -26,7 +26,7 @@ We then recommend working with the provided material to solidify what's been lea
   - [ ] use a custom visual  - [ ] apply and customize a theme  - [ ] configure conditional formatting  - [ ] apply slicing and filtering  - [ ] configure the report page  - [ ] use the Analyze in Excel feature  - [ ] choose when to use a paginated report- [ ] **Create dashboards**  - [ ] manage tiles on a dashboard  - [ ] configure mobile view  - [ ] use the Q&A feature  - [ ] add a Quick Insights result to a dashboard  - [ ] apply a dashboard theme  - [ ] pin a live report page to a dashboard- [ ] **Enhance reports for usability and storytelling**  - [ ] configure bookmarks  - [ ] create custom tooltips  - [ ] edit and configure interactions between visuals  - [ ] configure navigation for a report  - [ ] apply sorting  - [ ] configure Sync Slicers  - [ ] group and layer visuals by using the selection pane  - [ ] drilldown into data using interactive visuals  - [ ] export report data  - [ ] design reports for mobile devices- [ ] **Identify patterns and trends**  - [ ] use the Analyze feature in Power BI  - [ ] identify outliers  - [ ] choose between continuous and categorical axes  - [ ] use groupings, binnings, and clustering  - [ ] use AI visuals  - [ ] use the Forecast feature  - [ ] create reference lines by using the Analytics pane### [Deploy and Maintain Assets (20—25%)](#deploy-and-maintain-assets)- [ ] **Manage files and datasets**  - [ ] identify when a gateway is required  - [ ] configure a dataset scheduled refresh  - [ ] configure row-level security group membership  - [ ] provide access to datasets  - [ ] manage global options for files- [ ] **Manage workspaces**  - [ ] create and configure a workspace  - [ ] assign workspace roles  - [ ] configure and update a workspace app  - [ ] publish, import, or update assets in a workspace  - [ ] apply sensitivity labels to workspace content  - [ ] configure subscriptions and data alerts  - [ ] promote or certify Power BI content
 
 # The Skills Measured Outline
-### Prepare the Data#### [Get data from different data sources](https://docs.microsoft.com/en-us/learn/modules/get-data/)- identify and connect to a data source- change data source settings- select a shared dataset or create a local dataset- select a storage mode- use Microsoft Dataverse- change the value in a parameter- connect to a data flow
+### [Prepare the Data](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)#### [Get data from different data sources](https://docs.microsoft.com/en-us/learn/modules/get-data/)- identify and connect to a data source- change data source settings- select a shared dataset or create a local dataset- select a storage mode- use Microsoft Dataverse- change the value in a parameter- connect to a data flow
 
 ##### Additional Resources:
 - [Lab: Prepare data in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/get-data/lab-prepare)  
@@ -74,3 +74,19 @@ Unfortunately this does not have a specific section in the MS Learn track. Items
 ### [Deploy and Maintain Assets](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/)#### [Manage files and datasets](https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/)- identify when a gateway is required- configure a dataset scheduled refresh- configure row-level security group membership- provide access to datasets- manage global options for files#### [Manage workspaces](https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/)- create and configure a workspace- assign workspace roles- configure and update a workspace app- publish, import, or update assets in a workspace- apply sensitivity labels to workspace content- configure subscriptions and data alerts- promote or certify Power BI content
 
 # Additional Resources
+- [BI Elite Training DA-100 Exam Prep – Power BI Certification](https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/)  
+  - Price: $29USD
+  - Offering: Live Azure database, 30+ DA-100 Practice Exam Questions, Many hours of premium video tutorials from a Microsoft MVP
+  – Free Trial? Yes. 7 day.
+- [Learn Data Insights](https://learndatainsights.com/data-analyst/analysing-data-with-microsoft-power-bi-da-100%e2%80%8b/)  
+  - Price: Free
+  - Offering: Questions w/ explanations & links to resources when answers are incorrect.
+- [Magna Data Solutions](https://magnadatasolutions.com/practice-da100-exam/)
+  - Price: Free
+  - Offering: Exam tips video & questions
+- [Sky Point CSG](https://www.csgpro.com/diad-instructional-videos/?submissionGuid=9a532666-5e9f-4b88-bc58-eac52f89db4e)
+  - Price: Free
+  - Offering: Video walkthrough of Microsoft's Dashboard in a Day project
+- [Microsoft's Dashboard in a Day Project](https://powerbi.microsoft.com/en-us/diad/)
+  - Price: Free
+  - Offering: Materials for constructing dashboards like a professional, including tutorials and sample data
