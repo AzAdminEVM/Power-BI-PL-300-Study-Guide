@@ -6,11 +6,11 @@ This repo contains a study guide for the [PL-300: Microsoft Power BI Data Analys
 
 # What this document contains
 
-First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an outline with links to each section from 1) the primary Microsoft Learn page(s), 2) additional Microsoft documentation, and 3) additional resources.
+First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline) with links to each section from 1) the primary Microsoft Learn page(s), 2) additional Microsoft documentation, and 3) additional resources.
 
 Unfortunately, Microsoft's Learn path and its outline are not a 1:1. Here we've done the best we can to provide links to the relevant information. Where larger gaps between the outline and the MS Learn track exist, users may instead find links to external sites and resources.
 
-The document furthermore contains references to further reading and resources, including tutorial videos, paid training (not ours), and the Dashboard in a Day offered by Microsoft (free).
+The document furthermore contains references to [further reading and resources](#additional-resources-&-links), including tutorial videos, paid training (not ours), and the Dashboard in a Day offered by Microsoft (free).
 
 **This document is current as of February 2022.**
 
@@ -73,7 +73,7 @@ Unfortunately this does not have a specific section in the MS Learn track. Items
 - [Lab: Perform data analysis in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/5-lab?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.data-analysis-power-bi)
 ### [Deploy and Maintain Assets](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/)#### [Manage files and datasets](https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/)- identify when a gateway is required- configure a dataset scheduled refresh- configure row-level security group membership- provide access to datasets- manage global options for files#### [Manage workspaces](https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/)- create and configure a workspace- assign workspace roles- configure and update a workspace app- publish, import, or update assets in a workspace- apply sensitivity labels to workspace content- configure subscriptions and data alerts- promote or certify Power BI content
 
-# Additional Resources
+# Additional Resources & Links
 - [BI Elite Training DA-100 Exam Prep – Power BI Certification](https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/)  
   - Price: $29USD
   - Offering: Live Azure database, 30+ DA-100 Practice Exam Questions, Many hours of premium video tutorials from a Microsoft MVP
