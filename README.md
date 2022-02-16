@@ -13,17 +13,17 @@ First and foremost is the current Skills Measured outline found [here](https://q
 The document also contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day project offered by Microsoft (free).
 
 # How to Use this Document
-Clone the repo. Then, begin with the Microsoft Learn track found [here](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). The subsections of this are what is linked to in the below Outline. It is the go-to source for all material covered by the exam.
+Clone the repo. Then, begin with the Microsoft Learn track found [here](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). It is the go-to source for all material covered by the exam. Use the below Checkboxes to track progress and the links in the Outline to return to sections in the future. 
 
-As you complete each section, check off each sub-section and header. To do so, add an `x` between the brackets, like so `[x]`. Example:
+To check off the sub-sections and headers, add an `x` between the brackets like so `[x]`. Example:
 - [ ] Incomplete
 - [x] Complete
 
-We then recommend working with the provided material to solidify what's been learned. 
+We then recommend working with the supplemental material to solidify content. 
 
-**NOTICE: Just following the Microsoft Learn path is not enough. There is too much material to memorize in one go-through. You *will* have to practice, and you will be returning to sections.**
+**NOTICE: Following the Microsoft Learn path is not enough. There is too much material to memorize in one go-through and content will not sink in with further practice and review. You *will* have to practice, and you will be revisiting content.**
 
-# Additional Notes
+# Additional Notes & Caveats
 Unfortunately, Microsoft's Learn path and its outline are not a 1:1. This can manifest in two ways.
 
 In the first, a sub-section in the outline may not have its own explicit page in the MS Learn path and may exist across several pages of content. E.g. `identify and connect to a data source` does not exist as a specific page in the MS Learn section for `Prepare the Data`, but rather as several pages tied to various data sources.  
