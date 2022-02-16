@@ -4,13 +4,13 @@ A study guide for the PL-300: Microsoft Power BI Data Analyst Certification Exam
 # Introduction
 This repo contains a study guide for the [PL-300: Microsoft Power BI Data Analyst certification exam](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100), the exam to certify the recipient as a [Microsoft Certified: Power BI Data Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/).
 
+`Document is current as of February 2022.`
+
 # What this Document Contains
 
 First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline) with links to 1) the primary Microsoft Learn page(s) (where they exist), 2) additional Microsoft documentation, and 3) additional resources. 
 
 The document also contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day project offered by Microsoft (free).
-
-**This document is current as of February 2022.**
 
 # How to Use this Document
 Clone the repo. Then, begin with the Microsoft Learn track found [here](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). The subsections of this are what is linked to in the below Outline. It is the go-to source for all material covered by the exam.
