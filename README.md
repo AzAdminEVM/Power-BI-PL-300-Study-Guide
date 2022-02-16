@@ -4,20 +4,27 @@ A study guide for the PL-300: Microsoft Power BI Data Analyst Certification Exam
 # Introduction
 This repo contains a study guide for the [PL-300: Microsoft Power BI Data Analyst certification exam](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100), the exam to certify the recipient as a [Microsoft Certified: Power BI Data Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/).
 
-# What this document contains
+# What this Document Contains
 
-First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline) with links to each section from 1) the primary Microsoft Learn page(s), 2) additional Microsoft documentation, and 3) additional resources.
+First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline) with links to 1) the primary Microsoft Learn page(s), 2) additional Microsoft documentation, and 3) additional resources.
 
-Unfortunately, Microsoft's Learn path and its outline are not a 1:1. Here we've done the best we can to provide links to the relevant information. Where larger gaps between the outline and the MS Learn track exist, users may instead find links to external sites and resources.
-
-The document furthermore contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day offered by Microsoft (free).
+The document also contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day offered by Microsoft (free).
 
 **This document is current as of February 2022.**
 
 # How to Use this Document
-We recommend the Microsoft Learn track first. Find it [here](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/). This is the go-to source for all material covered by the exam. Use the outline below as your guide, checking off as you go.
+Clone the repo. Then, begin with the Microsoft Learn track found [here](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/), but also linked to in the below Outline. This is the go-to source for all material covered by the exam.
 
-We then recommend working with the provided material to solidify what's been learned. **There is too much material for everything to sink in just following the Microsoft Learn path.** You will have to practice.
+As you complete each section, check off each sub-section and header. To do so, add an `x` between the brackets, like so `[x]`. Example:
+- [ ] Incomplete
+- [x] Complete
+
+We then recommend working with the provided material to solidify what's been learned. 
+
+**NOTICE: There is too much material for everything to sink in just following the Microsoft Learn path.** You **will** have to practice.
+
+# Additional Notes
+Unfortunately, Microsoft's Learn path and its outline are not a 1:1, which means that content for certain sub-sections may not be found within the page linked to by the header. We have done our best to fill these gaps, though several surely remain. Please feel free to contribute to fill these in. 
 
 
 # The Skills Measured Checklist
