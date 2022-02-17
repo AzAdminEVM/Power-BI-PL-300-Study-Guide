@@ -41,7 +41,7 @@ Lastly, a section titled `Develop a data model` exists in the Outline, but has n
 # About the DA-100 / PL-300
 - Duration: 180 Minutes.
 - Question Types: Multiple choice and multi-response questions.
-- # of Questions: s 40-60 questions.
+- Number of Questions: 40-60.
 - Score to Pass: 700/1000
 
 
