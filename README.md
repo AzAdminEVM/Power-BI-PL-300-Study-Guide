@@ -282,7 +282,7 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - provide access to datasets
 - manage global options for files
 #### [Manage workspaces](https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/)
-- create and configure a workspace
+- [create and configure a workspace](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-workspaces)
 - assign workspace roles
 - configure and update a workspace app
 - publish, import, or update assets in a workspace
