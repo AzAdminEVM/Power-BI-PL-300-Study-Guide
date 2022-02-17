@@ -8,7 +8,13 @@ This repo contains a study guide for the [PL-300: Microsoft Power BI Data Analys
 
 # What this Document Contains
 
-First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline) with links to 1) the primary Microsoft Learn page(s) (where they exist), 2) additional Microsoft documentation, and 3) additional resources. 
+First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline). The structure for the is as follows:
+
+### Section Header
+##### Section Sub-Header
+- Sub-section
+
+Headers and sub-headers always link to the official Microsoft Learn path documentation (where it exists). Sub-sections link mostly to other Microsoft Documentation, though in instanced where MS Documentation is lacking, outside resources are used. Additional resources are then added at the bottom of each seaction linking out to MS Learn labs and third-party resources. 
 
 The document also contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day project offered by Microsoft (free).
 
@@ -31,6 +37,12 @@ First, a sub-section in the outline may not have its own explicit page in the MS
 Second, content for certain sub-sections in the outline may not be found within the indicated MS Learn section. We have tried to note this where possible.
 
 Lastly, a section titled `Develop a data model` exists in the Outline, but has no corollary in the MS Learn track. In this case, informative content has been provided to the best of our ability. Several gaps surely remain, however, so please feel free to contribute.
+
+# About the DA-100 / PL-300
+- Duration: 180 Minutes.
+- Question Types: Multiple choice and multi-response questions.
+- # of Questions: s 40-60 questions.
+- Score to Pass: 700/1000
 
 
 # The Skills Measured Checklist
@@ -295,3 +307,8 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - [Microsoft's Dashboard in a Day Project](https://powerbi.microsoft.com/en-us/diad/)
   - Price: Free
   - Offering: Materials for constructing dashboards like a professional, including tutorials and sample data
+- [Official Practice Test (Current test exam is for the DA-100)](https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=AZLearnerJourney)
+  - Price: $99-109 (for 30 & 60 day availability, respectively)
+  - Offering: Practice test meant to mimic the exam format.
+- [Udemy Practice Tests](https://www.udemy.com/course/pl-300-practice-tests-microsoft-power-bi-data-analyst/?couponCode=66B6F0AF85D1A0E729C6)
+  - Price: ~$20 (price may vary over time)
