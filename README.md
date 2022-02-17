@@ -148,13 +148,13 @@ Lastly, a section titled `Develop a data model` exists in the Outline, but has n
 # The Skills Measured Outline
 ### [Prepare the Data](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)
 #### [Get data from different data sources](https://docs.microsoft.com/en-us/learn/modules/get-data/)
-- identify and connect to a data source
-- change data source settings
-- select a shared dataset or create a local dataset
-- select a storage mode
-- use Microsoft Dataverse
-- change the value in a parameter
-- connect to a data flow
+- [identify and connect to a data source](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data)
+- [change data source settings](https://www.c-sharpcorner.com/article/how-to-change-data-source-of-existing-report-in-power-bi/)
+- select a shared dataset or create a local dataset (See first bullet. Documentation contains various sections on connecting to different sets of data.)
+- [select a storage mode](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-storage-mode)
+- [use Microsoft Dataverse](https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/)
+- [change the value in a parameter](https://docs.microsoft.com/en-us/power-query/power-query-query-parameters)
+- [connect to a data flow](https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-develop-solutions)
 
 ##### Additional Resources:
 - [Lab: Prepare data in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/get-data/lab-prepare)  
