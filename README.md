@@ -1,4 +1,4 @@
-# Power-BI-Cert-Study-Guide
+# Power-BI-PL-300-Study-Guide
 A study guide for the PL-300: Microsoft Power BI Data Analyst Certification Exam
 
 # Introduction
