@@ -14,7 +14,7 @@ First and foremost is the current Skills Measured outline found [here](https://q
 ##### Section Sub-Header
 - Sub-section
 
-Headers and sub-headers always link to the official Microsoft Learn path documentation (where it exists), while sub-sections link mostly to other Microsoft Documentation. In instances where MS Documentation is lacking, outside resources are used. Additional resources are then added at the bottom of each seaction linking out to MS Learn labs and third-party resources. 
+Headers and sub-headers always link to the official Microsoft Learn path documentation (where it exists), while sub-sections link mostly to other Microsoft Documentation. In instances where MS Documentation is lacking, outside resources are used. Additional resources are then added at the bottom of each section linking out to MS Learn labs and third-party resources. 
 
 The document also contains references to [further reading and resources](#additional-resources--links), including tutorial videos, paid training (not ours), and the Dashboard in a Day project offered by Microsoft (free).
 
