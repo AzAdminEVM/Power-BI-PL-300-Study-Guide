@@ -8,7 +8,7 @@ This repo contains a study guide for the [PL-300: Microsoft Power BI Data Analys
 
 # What this Document Contains
 
-First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline). The structure for the is as follows:
+First and foremost is the current Skills Measured outline found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6). This has been recreated below as a checklist first, and then as an [outline](#the-skills-measured-outline). The structure for the outline is as follows:
 
 ### Section Header
 ##### Section Sub-Header
@@ -27,7 +27,7 @@ To check off the sub-sections and headers, add an `x` between the brackets like 
 
 We then recommend working with the supplemental material to solidify content. 
 
-**NOTICE: Following the Microsoft Learn path is not enough. There is too much material to memorize in one go-through and content will not sink in with further practice and review. You *will* have to practice, and you will be revisiting content.**
+**NOTICE: Following the Microsoft Learn path is not enough. There is too much material to memorize in one go and content will not sink in without further practice and review. You *will* have to practice, and you will be revisiting content.**
 
 # Additional Notes & Caveats
 Unfortunately, Microsoft's Learn path and its outline are not a 1:1. This can manifest in several ways.
@@ -42,7 +42,7 @@ Lastly, a section titled `Develop a data model` exists in the Outline, but has n
 - Duration: 180 Minutes.
 - Question Types: Multiple choice and multi-response questions.
 - Number of Questions: 40-60.
-- Score to Pass: 700/1000
+- Score to Pass: 700/1000.
 
 
 # The Skills Measured Checklist
@@ -282,13 +282,16 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - provide access to datasets
 - manage global options for files
 #### [Manage workspaces](https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/)
-- [create and configure a workspace](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-workspaces)
+- create and configure a workspace
 - assign workspace roles
 - configure and update a workspace app
 - publish, import, or update assets in a workspace
 - apply sensitivity labels to workspace content
 - configure subscriptions and data alerts
 - promote or certify Power BI content
+
+##### Additional Resources:
+- [A quick summary on Workspaces, Roles, and Licensing](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Understanding%20Workspaces%2C%20Roles%2C%20and%20Licensing.md)  
 
 # Additional Resources & Links
 - [BI Elite Training DA-100 Exam Prep – Power BI Certification](https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/)  
