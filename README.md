@@ -39,6 +39,9 @@ Second, content for certain sub-sections in the outline may not be found within 
 
 Lastly, a section titled `Develop a data model` exists in the Outline, but has no corollary in the MS Learn track. In this case, informative content has been provided to the best of our ability. Several gaps surely remain, however, so please feel free to contribute.
 
+# Resources for Colleagues (AzTech International)
+See [this](https://drive.google.com/drive/u/1/folders/14mQNdzJjq_DcMgXNRPRdD8PjviCCVeqQ) folder for additional documentation. Contained are further details about the exam, a thorough list of DAX functions with descriptions, and a list of M functions with descriptions and examples.
+
 # About the DA-100 / PL-300
 - Duration: 180 Minutes.
 - Question Types: Multiple choice and multi-response questions.
@@ -148,72 +151,75 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - [Use the Q&A visual](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/2-visual?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.data-analysis-power-bi)
 
 ### [Enhance reports for usability and storytelling](https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/)
-- [ ] configure bookmarks
-- [ ] create custom tooltips
-- [ ] edit and configure interactions between visuals
-- [ ] configure navigation for a report
-- [ ] apply sorting
-- [ ] configure Sync Slicers
-- [ ] group and layer visuals by using the selection pane
-- [ ] drilldown into data using interactive visuals
-- [ ] export report data
-- [ ] design reports for mobile devices
+- [ ] [configure bookmarks](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-bookmarks?tabs=powerbi-desktop)
+- [ ] [create custom tooltips](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips)
+- [ ] [edit and configure interactions between visuals](https://docs.microsoft.com/en-us/power-bi/create-reports/service-reports-visual-interactions)
+- [ ] [configure navigation for a report](https://docs.microsoft.com/en-us/power-bi/create-reports/button-navigators?tabs=powerbi-desktop)
+- [ ] [apply sorting](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-change-sort)
+- [ ] [configure Sync Slicers](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-slicers#sync-and-use-slicers-on-other-pages)
+- [ ] [group and layer visuals by using the selection pane](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-grouping-visuals#:~:text=To%20create%20a%20group%20of,displayed%20in%20the%20Selection%20pane.)
+- [ ] [drilldown into data using interactive visuals](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-drill)
+- [ ] [export report data](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-export-data?tabs=dashboard)
+- [ ] [design reports for mobile devices](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-create-mobile-optimized-report-mobile-layout-view?tabs=powerbi-desktop)
 
 ##### Additional Resources:
 - [Lab: Enhance Power BI reports with slicers, interaction, and formatting](https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/13-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.visual-data-power-bi)
 
 ### [Identify patterns and trends](https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/)
-- [ ] use the Analyze feature in Power BI
-- [ ] identify outliers
-- [ ] choose between continuous and categorical axes
-- [ ] use groupings, binnings, and clustering
+- [ ] [use the Analyze feature in Power BI](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-analyze-visuals)
+- [ ] [identify outliers](https://community.powerbi.com/t5/Community-Blog/How-To-Detect-Anomalies-And-Outliers-In-Your-Data/ba-p/470789)
+- [ ] [choose between continuous and categorical axes](https://community.powerbi.com/t5/Desktop/what-do-the-continuous-and-categorical-type-options-on-the-x/m-p/67223/highlight/true#M27855)
+- [ ] use [groupings, binnings](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-grouping-and-binning), and [clustering](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-feature-summary/#clustering)
 - [ ] [use AI visuals (this is its own section in the MS Learn track)](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/)
-- [ ] use the Forecast feature
-- [ ] create reference lines by using the Analytics pane
+- [ ] [use the Forecast feature](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane#apply-forecasting)
+- [ ] [create reference lines by using the Analytics pane](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane)
 
 ##### Additional Resources:
 - [Lab: Perform data analysis in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/5-lab?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.data-analysis-power-bi)
 
 ## [Deploy and Maintain Assets (20—25%)](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/)
 ### [Manage files and datasets](https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/)
-- [ ] identify when a gateway is required
-- [ ] configure a dataset scheduled refresh
-- [ ] configure row-level security group membership
-- [ ] provide access to datasets
-- [ ] manage global options for files
+- [ ] [identify when a gateway is required](https://docs.microsoft.com/en-us/power-bi/connect-data/service-gateway-deployment-guidance)
+- [ ] [configure a dataset scheduled refresh](https://docs.microsoft.com/en-us/power-bi/connect-data/refresh-scheduled-refresh)
+- [ ] [configure row-level security group membership](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls)
+- [ ] [provide access to datasets](https://docs.microsoft.com/en-us/power-bi/connect-data/service-datasets-build-permissions)
+- [ ] [manage global options for files](https://www.oreilly.com/library/view/microsoft-power-bi/9781788290142/3268569d-441d-41b7-9594-d0776568b703.xhtml)
 ### [Manage workspaces](https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/)
-- [ ] create and configure a workspace
-- [ ] assign workspace roles
-- [ ] configure and update a workspace app
+- [ ] [create and configure a workspace](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-create-the-new-workspaces)
+- [ ] [assign workspace roles](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-give-access-new-workspaces)
+- [ ] [configure and update a workspace app](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-create-distribute-apps)
 - [ ] publish, import, or update assets in a workspace
-- [ ] apply sensitivity labels to workspace content
-- [ ] configure subscriptions and data alerts
-- [ ] promote or certify Power BI content
+- [ ] [apply sensitivity labels to workspace content](https://docs.microsoft.com/en-us/power-bi/admin/service-security-apply-data-sensitivity-labels)
+- [ ] configure [subscriptions](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-subscribe) and [data alerts](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-alerts)
+- [ ] [promote or certify Power BI content](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-endorsement-overview)
 
 ##### Additional Resources:
 - [A quick summary on Workspaces, Roles, and Licensing](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Understanding%20Workspaces%2C%20Roles%2C%20and%20Licensing.md)  
 
 # Additional Resources & Links
-- [BI Elite Training DA-100 Exam Prep – Power BI Certification](https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/)  
-  - Price: $29USD
-  - Offering: Live Azure database, 30+ DA-100 Practice Exam Questions, Many hours of premium video tutorials from a Microsoft MVP
-  – Free Trial? Yes. 7 day.
+- [Udemy Course](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
+  - Price: ~$20 (price may vary over time)
+  - Offering: A complete course of all PBI content.
+- [Official Practice Test (Current test exam is for the DA-100)](https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=AZLearnerJourney)
+  - Price: $99-109 (for 30 & 60 day availability, respectively)
+  - Offering: Practice test meant to mimic the exam format.
 - [Learn Data Insights](https://learndatainsights.com/data-analyst/analysing-data-with-microsoft-power-bi-da-100%e2%80%8b/)  
   - Price: Free
   - Offering: Questions w/ explanations & links to resources when answers are incorrect.
+- [Microsoft's Dashboard in a Day Project](https://powerbi.microsoft.com/en-us/diad/)
+  - Price: Free
+  - Offering: Materials for constructing dashboards like a professional, including tutorials and sample data
+- [Guy In a Cube (YouTube)](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
+- [Curbal (YouTube)](https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw)
+
+##### Other Resources (Unvetted)
 - [Magna Data Solutions](https://magnadatasolutions.com/practice-da100-exam/)
   - Price: Free
   - Offering: Exam tips video & questions
 - [Sky Point CSG](https://www.csgpro.com/diad-instructional-videos/?submissionGuid=9a532666-5e9f-4b88-bc58-eac52f89db4e)
   - Price: Free
   - Offering: Video walkthrough of Microsoft's Dashboard in a Day project
-- [Microsoft's Dashboard in a Day Project](https://powerbi.microsoft.com/en-us/diad/)
-  - Price: Free
-  - Offering: Materials for constructing dashboards like a professional, including tutorials and sample data
-- [Official Practice Test (Current test exam is for the DA-100)](https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=AZLearnerJourney)
-  - Price: $99-109 (for 30 & 60 day availability, respectively)
-  - Offering: Practice test meant to mimic the exam format.
-- [Udemy Practice Tests](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
-  - Price: ~$20 (price may vary over time)
-- [Guy In a Cube (YouTube)](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
-- [Curbal (YouTube)](https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw)
+- [BI Elite Training DA-100 Exam Prep – Power BI Certification](https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/)  
+  - Price: $29USD
+  - Offering: Live Azure database, 30+ DA-100 Practice Exam Questions, Many hours of premium video tutorials from a Microsoft MVP
+  – Free Trial? Yes. 7 day.

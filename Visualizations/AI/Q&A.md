@@ -36,9 +36,13 @@ Here are the primary suggestions:
 6. Choose a Sort By Column for relevant columns
 7. [Normalize your model](https://docs.microsoft.com/en-us/power-bi/natural-language/q-and-a-best-practices#normalize-your-model)
 
+Data Category & Summarization settings:  
+<img width=400 src="https://user-images.githubusercontent.com/29554021/154742223-e3e80907-4b2a-44f4-bc14-fe00b3288a34.png" />
 
-<p align="center"><img width=400 src="https://user-images.githubusercontent.com/29554021/154742223-e3e80907-4b2a-44f4-bc14-fe00b3288a34.png" /></p>
-Data Category & Summarization settings.
 
+#### Miscellaneous
+- Your own Pages can be used as an answer to certain questions. To do so, go to the Page in question > Visualization > Format > Page Information > Toggle Q&A > Then add alternate names.  
+
+<p align="center"><img width="146" alt="image" src="https://user-images.githubusercontent.com/29554021/155398080-4f582bac-7b7b-4e34-a467-c9f40c0faf01.png"></p>
 
 

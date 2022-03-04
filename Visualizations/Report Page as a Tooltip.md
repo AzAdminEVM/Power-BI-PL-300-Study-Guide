@@ -1,4 +1,6 @@
 # [Visual Tooltips](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips?WT.mc_id=DP-MVP-5003635)
+`Notice: This is a personal study file. It assumes a certain familiarity with the topic and therefore DOES NOT contain everything about this topic. The author created this to track high-level notes and technical gotchas that might appear in the PL-300 exam.`
+
 You can create visually rich report tooltips that appear when you hover over visuals, based on report pages you create in Power BI Desktop. By creating a report page that serves as your tooltip, your custom tooltips can include visuals, images, and any other collection of items you create in the report page.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/29554021/154760916-530caec2-95a8-48f7-a7a5-425214103319.png" width=400 /></p>
