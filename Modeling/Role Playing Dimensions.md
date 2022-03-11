@@ -2,7 +2,7 @@
 Related: Guidance on [Active & Inactive Relationships](https://docs.microsoft.com/en-us/power-bi/guidance/relationships-active-inactive)
 
 A Role Playing Dimension is when two tables have more than one relationship between them. In this case, one is Inactive, because tables can have only one active 
-relationship. This does not mean that the inactive relationship cannot be leveraged. Using the `USERELATIONSHIP()` or `RELATED()` functions permits this.
+relationship. This does not mean that the inactive relationship cannot be leveraged. Using the `USERELATIONSHIP()` function permits this.
 
 Consider this setup:  
 <p align="center"><img width="309" alt="image" src="https://user-images.githubusercontent.com/29554021/156819921-bf1d934a-8ea1-42d9-94c9-98aae41a1c9a.png"></p>

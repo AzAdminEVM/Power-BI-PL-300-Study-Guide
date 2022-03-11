@@ -1,13 +1,13 @@
 - Power BI Service 
   - Deployment
-  - [Workspaces](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Understanding%20Workspaces%2C%20Roles%2C%20and%20Licensing.md)
+  - [Workspaces](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Power%20BI%20Service//Understanding%20Workspaces%2C%20Roles%2C%20and%20Licensing.md)
   - Datasets
   - Dashboards
-  - [Apps](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Apps.md)
-  - [Roles & Licensing](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Understanding%20Workspaces%2C%20Roles%2C%20and%20Licensing.md#roles)
-  - [Ways of Sharing: Reports, Workspaces, Dashboards, Apps, Datasets](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Sharing.md)
+  - [Apps](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Power%20BI%20Service/Apps.md)
+  - [Roles & Licensing](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Power%20BI%20Service/Understanding%20Workspaces%2C%20Roles%2C%20and%20Licensing.md#roles)
+  - [Ways of Sharing: Reports, Workspaces, Dashboards, Apps, Datasets](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Power%20BI%20Service/Sharing.md)
 - Paginated Reports
-- [Subscription Tiers, i.e. PBI Pro vs Premium vs Free](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Understanding%20Workspaces%2C%20Roles%2C%20and%20Licensing.md#licensing)
+- [Subscription Tiers, i.e. PBI Pro vs Premium vs Free](https://github.com/user905/PL-300-Personal-Study-Guide/blob/main/Power%20BI%20Service/Understanding%20Workspaces%2C%20Roles%2C%20and%20Licensing.md#licensing)
 - Relationships
   - Inactive vs Active
   - Model Ambiguity
